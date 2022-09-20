@@ -1,10 +1,11 @@
-## java五子棋客户端
+HTML/CSS 大型静态网站
+----------
+1. 高度还原项目官网，模拟项目动态效果
+2. 采用众多 HTML5及CSS3 技术实现网页效果
+3. 无 JS 脚本，无使用任何类库框架
+4. 使用 icon-font 字体制作矢量图标
+5. 大量使用 CSS3 aimation 以及 transition 属性制作动画效果
 
-本系统是使用JAVA语言写的支持在线联机对战的五子棋客户端游戏。
+项目入口 ： [小米首页](https://shinyhwong.github.io/Practice/小米官网/index.html)、[努比亚手机首页](https://shinyhwong.github.io/Practice/努比亚官网/index.html)
 
-这只是一个新手项目，没有使用到任何框架与高级技术。
-
-本地测试不需要修改任何东西就可以启动并玩人机对战。
-
-如果想联机，就需要创建数据库，并创建 user 表，里面包含的字段顺序为 name,fileName,winNum,loseNum,tiedNum.  
-并修改 BaseDao 中的数据库变量，和 MyClient 中的 ip 地址，就可以进行联机对战了。
+**腾讯实习/校招/社招 内推简历投递：365788957@qq.com  ，  可在 careers.tencent.com 查看相应岗位。**
